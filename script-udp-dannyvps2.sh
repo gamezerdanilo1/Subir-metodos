@@ -78,8 +78,8 @@ sudo systemctl restart udp-custom
 while true; do
 echo -e "\e[1m\e[36m  \e[0m"
 echo "𝘿𝘼𝙉𝙉𝙔𝙑𝙋𝙎-3219119613"
-echo "𝙎𝙚𝙡𝙚𝙘𝙘𝙞𝙤𝙣𝙚  𝙪𝙣𝙖  𝙤𝙥𝙘𝙞𝙤𝙣:"
-echo "🇲 🇪 🇳 🇺 "
+echo ""
+eco " 🇲 🇪 🇳 🇺 "
 echo "1️⃣👉.𝙈𝙤𝙨𝙩𝙧𝙖𝙧 𝙘𝙤𝙣𝙩𝙧𝙖𝙨𝙚𝙣̃𝙖𝙨 𝙀𝙭𝙞𝙨𝙩𝙚𝙨𝙣𝙩𝙚𝙨"
 
 echo "2️⃣👉.𝘼𝙜𝙧𝙚𝙜𝙖𝙧 𝙘𝙤𝙣𝙩𝙧𝙖𝙨𝙚𝙣̃𝙖"
